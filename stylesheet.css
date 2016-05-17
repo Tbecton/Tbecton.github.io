@@ -1,16 +1,15 @@
-<body>
-    background-image:
-    url("http://www.buzzfeed.com/ariellecalderon/life-hacks-every-girl-should-know-about")
+body{
+    background-image: url("http://www.buzzfeed.com/ariellecalderon/life-hacks-every-girl-should-know-about")
+}
     
-    #bp {
-       color:blue;
-     }
-     
-     #id_name{
-        font-size: 20px;
-     }
-     
-     .class_name{
-        font-size:20px;
-     }
-</body>
+#bp {
+   color:blue;
+ }
+ 
+ #id_name{
+    font-size: 20px;
+ }
+ 
+ .class_name{
+    font-size:20px;
+ }
