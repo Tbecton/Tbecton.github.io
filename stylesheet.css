@@ -2,19 +2,7 @@ body{
     background-image: url("life_hacks.png")
 }
     
-p {
+.bp {
    color:blue;
-   font-size:;
- }
- 
- #ital{
-    font-style:italic;
- }
- 
- #id_name{
-    font-size: 88px;
- }
- 
- .class_name{
-    font-size:88px;
- }
+   font-size:40px;
+}
