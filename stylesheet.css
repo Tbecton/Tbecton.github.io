@@ -2,8 +2,12 @@ body{
     background-image: url("life_hacks.png")
 }
     
-#bp {
+.bp {
    color:blue;
+ }
+ 
+ #ital{
+    font-style:italic;
  }
  
  #id_name{
