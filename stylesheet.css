@@ -5,4 +5,9 @@ body{
 .bp {
    color: #6133FF ;
    font-size:40px;
+
+}
+class {
+     color: #8C39FF;
+     font-size:20px;
 }
