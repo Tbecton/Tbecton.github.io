@@ -10,7 +10,8 @@ body{
 .class {
      color: #8C39FF;
      font-size:20px;
-<img class: url(Unknown-1.jpeg) style= "width:204px;height:140px">
-    
- 
+}
+
+img{
+    width:204px;
 }
