@@ -1,7 +1,5 @@
 $(document).ready(function(){
- $("top").click(function(){
-    alert("The border was clicked.");$(selector).click(function)
+ $("#top").click(function(){
+    alert("The border was clicked.");
+    $(this).css("border", "3px solid green");
 });
- document.#id "top" ("myDiv").style.border = "thin dotted Green";
-
-})
